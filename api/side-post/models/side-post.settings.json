@@ -1,8 +1,8 @@
 {
   "kind": "collectionType",
-  "collectionName": "posts",
+  "collectionName": "side_posts",
   "info": {
-    "name": "main_post",
+    "name": "side_post",
     "description": ""
   },
   "options": {
