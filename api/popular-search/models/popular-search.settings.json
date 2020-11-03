@@ -2,7 +2,7 @@
   "kind": "collectionType",
   "collectionName": "popular_searches",
   "info": {
-    "name": "Popular_search",
+    "name": "Popular-search",
     "description": ""
   },
   "options": {

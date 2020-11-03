@@ -2,7 +2,7 @@
   "kind": "collectionType",
   "collectionName": "side_posts",
   "info": {
-    "name": "side_post",
+    "name": "side-post",
     "description": ""
   },
   "options": {

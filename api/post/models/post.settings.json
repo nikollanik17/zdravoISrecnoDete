@@ -2,7 +2,7 @@
   "kind": "collectionType",
   "collectionName": "posts",
   "info": {
-    "name": "main_post",
+    "name": "main-post",
     "description": ""
   },
   "options": {
