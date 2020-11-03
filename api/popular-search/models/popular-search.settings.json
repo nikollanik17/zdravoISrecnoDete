@@ -1,0 +1,18 @@
+{
+  "kind": "collectionType",
+  "collectionName": "popular_searches",
+  "info": {
+    "name": "Popular_search",
+    "description": ""
+  },
+  "options": {
+    "increments": true,
+    "timestamps": true,
+    "draftAndPublish": true
+  },
+  "attributes": {
+    "Text": {
+      "type": "string"
+    }
+  }
+}
